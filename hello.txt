@@ -11,4 +11,5 @@
 	HelloWorld
 	HelloWorld
 	HelloWorld master test
+	HelloWorld hot_fix test
 	HelloWorld
